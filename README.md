@@ -1,2 +1,2 @@
 # frontendmentor
-Recreating a profile card with HTML and Css
+Recreating a profile card with HTML and CSS
